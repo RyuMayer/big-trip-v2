@@ -4,33 +4,20 @@ import './views/add-button-view';
 import './views/sort-view';
 import './views/list-view';
 
-/**
- * @type {import("./views/brief-view").default}
- */
-const briefView = document.querySelector('brief-view');
+import BriefPresenter from './presenters/brief-presenter';
+import FilterPresenter from './presenters/filter-presenter';
+import AddButtonPresenter from './presenters/add-button-presenter';
+import SortPresenter from './presenters/sort-presenter';
+import ListPresenter from './presenters/list-presenter';
 
-/**
- * @type {import("./views/brief-view").default}
- */
-const filterView = document.querySelector('filter-view');
+import AppModel from './models/app-model';
 
-/**
- * @type {import("./views/add-button-view").default}
- */
-const addButtonView = document.querySelector('add-button-view');
+const appModel = new AppModel();
 
-/**
- * @type {import("./views/sort-view").default}
- */
-const sortView = document.querySelector('sort-view');
-
-/**
- * @type {import("./views/list-view").default}
- */
-const listView = document.querySelector('list-view');
-
-briefView.render();
-filterView.render();
-addButtonView.render();
-sortView.render();
-listView.render();
+appModel.ready().then(() => {
+  new BriefPresenter(document.querySelector('brief-view'), appModel);
+  new FilterPresenter(document.querySelector('filter-view'), appModel);
+  new AddButtonPresenter(document.querySelector('add-button-view'), appModel);
+  new SortPresenter(document.querySelector('sort-view'), appModel);
+  new ListPresenter(document.querySelector('list-view'), appModel);
+});

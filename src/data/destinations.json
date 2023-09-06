@@ -1,0 +1,153 @@
+[
+  {
+    "id": "0074470e-c90f-4b67-9471-e5d4e14be424",
+    "description": "Milan - a perfect place to stay with a family",
+    "name": "Milan",
+    "pictures": [
+      {
+        "src": "https://21.objects.pages.academy/static/destinations/18.jpg",
+        "description": "Milan in a middle of Europe"
+      }
+    ]
+  },
+  {
+    "id": "956029b2-422c-4680-a970-4950b417e9fe",
+    "description": "Vien - for those who value comfort and coziness",
+    "name": "Vien",
+    "pictures": [ ]
+  },
+  {
+    "id": "913811a4-ad03-40c7-b7d9-6fb451321205",
+    "description": "Frankfurt - full of of cozy canteens where you can try the best coffee in the Middle East",
+    "name": "Frankfurt",
+    "pictures": [
+      {
+        "src": "https://21.objects.pages.academy/static/destinations/1.jpg",
+        "description": "Frankfurt with an embankment of a mighty river as a centre of attraction"
+      },
+      {
+        "src": "https://21.objects.pages.academy/static/destinations/2.jpg",
+        "description": "Frankfurt with crowded streets"
+      },
+      {
+        "src": "https://21.objects.pages.academy/static/destinations/6.jpg",
+        "description": "Frankfurt middle-eastern paradise"
+      },
+      {
+        "src": "https://21.objects.pages.academy/static/destinations/12.jpg",
+        "description": "Frankfurt in a middle of Europe"
+      },
+      {
+        "src": "https://21.objects.pages.academy/static/destinations/6.jpg",
+        "description": "Frankfurt with a beautiful old town"
+      }
+    ]
+  },
+  {
+    "id": "17c10c64-7b41-44f1-aa03-6ca3d4b761f9",
+    "description": "Madrid - famous for its crowded street markets with the best street food in Asia",
+    "name": "Madrid",
+    "pictures": [
+      {
+        "src": "https://21.objects.pages.academy/static/destinations/8.jpg",
+        "description": "Madrid for those who value comfort and coziness"
+      },
+      {
+        "src": "https://21.objects.pages.academy/static/destinations/15.jpg",
+        "description": "Madrid with crowded streets"
+      },
+      {
+        "src": "https://21.objects.pages.academy/static/destinations/17.jpg",
+        "description": "Madrid a perfect place to stay with a family"
+      }
+    ]
+  },
+  {
+    "id": "770142d9-df99-4b0d-94d3-445312060763",
+    "description": "Oslo - with an embankment of a mighty river as a centre of attraction",
+    "name": "Oslo",
+    "pictures": [
+      {
+        "src": "https://21.objects.pages.academy/static/destinations/17.jpg",
+        "description": "Oslo a true asian pearl"
+      },
+      {
+        "src": "https://21.objects.pages.academy/static/destinations/13.jpg",
+        "description": "Oslo in a middle of Europe"
+      },
+      {
+        "src": "https://21.objects.pages.academy/static/destinations/8.jpg",
+        "description": "Oslo for those who value comfort and coziness"
+      },
+      {
+        "src": "https://21.objects.pages.academy/static/destinations/6.jpg",
+        "description": "Oslo in a middle of Europe"
+      },
+      {
+        "src": "https://21.objects.pages.academy/static/destinations/5.jpg",
+        "description": "Oslo a true asian pearl"
+      }
+    ]
+  },
+  {
+    "id": "f4e21a8e-8e5f-4551-85df-7532d819749e",
+    "description": "",
+    "name": "Den Haag",
+    "pictures": [ ]
+  },
+  {
+    "id": "e7268084-213a-41e1-a191-8e906b436018",
+    "description": "Kioto - famous for its crowded street markets with the best street food in Asia",
+    "name": "Kioto",
+    "pictures": [
+      {
+        "src": "https://21.objects.pages.academy/static/destinations/2.jpg",
+        "description": "Kioto with an embankment of a mighty river as a centre of attraction"
+      },
+      {
+        "src": "https://21.objects.pages.academy/static/destinations/9.jpg",
+        "description": "Kioto is a beautiful city"
+      }
+    ]
+  },
+  {
+    "id": "ad900c9c-bf1f-41d2-9495-76e35cd65949",
+    "description": "Sochi - a perfect place to stay with a family",
+    "name": "Sochi",
+    "pictures": [
+      {
+        "src": "https://21.objects.pages.academy/static/destinations/15.jpg",
+        "description": "Sochi full of of cozy canteens where you can try the best coffee in the Middle East"
+      },
+      {
+        "src": "https://21.objects.pages.academy/static/destinations/7.jpg",
+        "description": "Sochi famous for its crowded street markets with the best street food in Asia"
+      },
+      {
+        "src": "https://21.objects.pages.academy/static/destinations/9.jpg",
+        "description": "Sochi famous for its crowded street markets with the best street food in Asia"
+      }
+    ]
+  },
+  {
+    "id": "ed00038b-d531-4746-b1ed-b66b015b907b",
+    "description": "",
+    "name": "Rotterdam",
+    "pictures": [ ]
+  },
+  {
+    "id": "fa0ada00-0106-41e6-af46-c8cf8472f681",
+    "description": "Tokio - a true asian pearl",
+    "name": "Tokio",
+    "pictures": [
+      {
+        "src": "https://21.objects.pages.academy/static/destinations/7.jpg",
+        "description": "Tokio with a beautiful old town"
+      },
+      {
+        "src": "https://21.objects.pages.academy/static/destinations/17.jpg",
+        "description": "Tokio full of of cozy canteens where you can try the best coffee in the Middle East"
+      }
+    ]
+  }
+]
